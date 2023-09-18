@@ -1,7 +1,7 @@
 package shred
 
 import (
-		"crypto/rand"
+	"crypto/rand"
 	"fmt"
 	"os"
 	"path/filepath"
